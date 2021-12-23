@@ -1,0 +1,1 @@
+new Amount After Withdraw : 768.0
